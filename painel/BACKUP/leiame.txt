@@ -1,0 +1,5 @@
+cria um campo na tabela contos chamado 'idade'
+
+upa a tabela publiqueai que ta ai na pasta e todos os arquivos q tao ae
+
+vlw!
